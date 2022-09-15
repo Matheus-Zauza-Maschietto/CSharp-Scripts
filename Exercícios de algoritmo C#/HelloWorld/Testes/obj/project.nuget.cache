@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4rJ4U5RwklgKAwEk/W8Qc8SiLyfuVCSi126bSs6kMFdWv+3urz/cqzvClIcHBIOh3JHg1uW1BGJA1T0Da2k/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus\\Documents\\Estudos\\C#\\CSharp-Scripts\\Exercícios de algoritmo C#\\HelloWorld\\Testes\\Testes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\fluentcolorconsole\\2.0.1\\fluentcolorconsole.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

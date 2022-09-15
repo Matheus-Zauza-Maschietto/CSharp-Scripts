@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Estudos\\C#\\Exercícios de algoritmo C#\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Estudos\\C#\\CSharp-Scripts\\Exercícios de algoritmo C#\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Matheus\\Documents\\Estudos\\C#\\Exercícios de algoritmo C#\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\Matheus\\Documents\\Estudos\\C#\\CSharp-Scripts\\Exercícios de algoritmo C#\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus\\Documents\\Estudos\\C#\\Exercícios de algoritmo C#\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\Matheus\\Documents\\Estudos\\C#\\CSharp-Scripts\\Exercícios de algoritmo C#\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
