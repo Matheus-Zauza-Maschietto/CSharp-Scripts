@@ -16,20 +16,22 @@ namespace exercicios.ex2
 
         public string[] lista { get; set; }
 
+        public string stringInformacao { get; set; }
+
         public ex2(){
             Console.WriteLine("Entre com seu nome completo: ");
             nome = Console.ReadLine();
             Console.WriteLine("Quantos quartos tem na sua casa ?");
             quantQuartos = int.Parse(Console.ReadLine());
             Console.WriteLine("Entre com o preço de um produto: ");
-            preco = double.Parse(Console.ReadLine().ToString("F2", CultureInfo.InvariantCulture));
+            preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("Entre seu ultimo nome, idade e altura (mesma linha)");
-            lista = Console.ReadLine().split(" ");
-
+            stringInformacao = Console.ReadLine();
+            lista = stringInformacao.Split(' ');
 
             Console.WriteLine(nome);
             Console.WriteLine(quantQuartos);
-            Console.WriteLine(preco);
+            Console.WriteLine(preco.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine(lista[1]);
             Console.WriteLine(lista[2]);
         }

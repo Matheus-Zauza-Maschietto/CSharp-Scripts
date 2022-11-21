@@ -1,3 +1,3 @@
-﻿using exercicios.ex1;
+﻿using exercicios.ex5;
 
-ex1 exercicio = new ex1();
+ex5 exercicio = new ex5();
