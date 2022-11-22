@@ -1,0 +1,15 @@
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\POOemC#.csproj.AssemblyReference.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\POOemC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\POOemC#.AssemblyInfoInputs.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\POOemC#.AssemblyInfo.cs
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\POOemC#.csproj.CoreCompileInputs.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\bin\Debug\net6.0\POOemC#.exe
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\bin\Debug\net6.0\POOemC#.deps.json
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\bin\Debug\net6.0\POOemC#.runtimeconfig.json
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\bin\Debug\net6.0\POOemC#.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\bin\Debug\net6.0\POOemC#.pdb
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\POOemC#.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\refint\POOemC#.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\POOemC#.pdb
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\POOemC#.genruntimeconfig.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\POOemC#\obj\Debug\net6.0\ref\POOemC#.dll
