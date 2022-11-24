@@ -1,7 +1,6 @@
-﻿using POOemC_.exercicios.introducao;
+﻿using POOemC_.exercicios.intermediario;
 public class executer{
     public static void Main(){
-        double valor = ConversorDeMoeda.Converter(3.10, 200.00);
-        Console.WriteLine(valor);
+        Ex7 exec = new Ex7();
     }
 }
