@@ -15,7 +15,7 @@ namespace POOemC_.exercicios.intermediario
             Titular = titular;
         }
         public ContaBancaria(string titular, int _numero_conta, double valor):this(titular, _numero_conta){
-            Saldo = (decimal)valor;
+            Deposito(valor);
         }
 
         public string Titular{
@@ -23,7 +23,7 @@ namespace POOemC_.exercicios.intermediario
                 return _titular;
             }
             set{
-                _titular = value;
+               // _titular = value;
             }
         }
 
