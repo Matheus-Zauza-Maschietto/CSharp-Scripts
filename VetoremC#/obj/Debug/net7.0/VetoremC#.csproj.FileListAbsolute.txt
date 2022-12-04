@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\bin\Debug\net7.0\VetoremC#.exe
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\bin\Debug\net7.0\VetoremC#.deps.json
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\bin\Debug\net7.0\VetoremC#.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\bin\Debug\net7.0\VetoremC#.dll
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\bin\Debug\net7.0\VetoremC#.pdb
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\VetoremC#.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\VetoremC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\VetoremC#.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\VetoremC#.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\VetoremC#.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\VetoremC#.dll
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\refint\VetoremC#.dll
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\VetoremC#.pdb
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\VetoremC#.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\VetoremC#\obj\Debug\net7.0\ref\VetoremC#.dll
