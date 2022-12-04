@@ -1,7 +1,7 @@
 ﻿using VetoremC_.exercicios;
 class executor{
     public static void Main(){
-        matrizEx1 exec = new matrizEx1();
+        matrizEx2 exec = new matrizEx2();
     }
 
 }

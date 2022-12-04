@@ -13,6 +13,8 @@ namespace VetoremC_.exercicios
             int[,] matriz = new int[matSize, matSize];
             ReadMatriz(matriz);
             WriteMatriz(matriz);
+            ShowDiag(matriz);
+            CountNegativeNumbers(matriz);
         }
 
     public void WriteMatriz(int[,] mat){
@@ -30,6 +32,26 @@ namespace VetoremC_.exercicios
                 mat[i, j] = int.Parse(Console.ReadLine());
             }
         }
+    }
+
+    public void ShowDiag(int[,] mat){
+        Console.WriteLine("Main diagonal: ");
+        for(int i=0; i<mat.GetLength(0); i++){
+            Console.Write(mat[i, i]+" ");
+        }
+        Console.WriteLine();
+    }
+
+    public void CountNegativeNumbers(int[,] mat){
+        int cont=0;
+        for(int i=0; i<mat.GetLength(0); i++){
+            for(int j=0; j<mat.GetLength(1); j++){
+                if(mat[i, j] < 0){
+                    cont++;
+                }
+            }
+        }
+        Console.WriteLine($"Negative numbers: {cont}");
     }
 
     }
