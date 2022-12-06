@@ -1,6 +1,6 @@
-﻿using POOemC_.exercicios.intermediario;
+﻿using POOemC_.exercicios.teste;
 public class executer{
     public static void Main(){
-        Ex7 exec = new Ex7();
+        Ex8 exec = new Ex8();
     }
 }
