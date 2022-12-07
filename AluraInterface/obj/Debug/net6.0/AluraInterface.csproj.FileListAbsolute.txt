@@ -1,0 +1,15 @@
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\AluraInterface.csproj.AssemblyReference.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\AluraInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\AluraInterface.AssemblyInfoInputs.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\AluraInterface.AssemblyInfo.cs
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\AluraInterface.csproj.CoreCompileInputs.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\bin\Debug\net6.0\AluraInterface.exe
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\bin\Debug\net6.0\AluraInterface.deps.json
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\bin\Debug\net6.0\AluraInterface.runtimeconfig.json
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\bin\Debug\net6.0\AluraInterface.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\bin\Debug\net6.0\AluraInterface.pdb
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\AluraInterface.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\refint\AluraInterface.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\AluraInterface.pdb
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\AluraInterface.genruntimeconfig.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraInterface\obj\Debug\net6.0\ref\AluraInterface.dll
