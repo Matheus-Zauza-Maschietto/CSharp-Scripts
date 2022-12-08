@@ -30,7 +30,7 @@ namespace enums.exercicios.Ex2.Entities
         }
         public void Remove(HourContract contract)
         {
-            Contract.Remove(contract);
+            ContractList.Remove(contract);
         }
         public double Income(int year, int month)
         {

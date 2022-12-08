@@ -2,19 +2,25 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AluraInterface.SistemaInterno;
 
 namespace AluraInterface.Funcionarios
 {
-    public class Diretor: Funcionario
+    public class Diretor: FuncionarioAutenticavel
     {
         public override double GetBonificacao()
         {
-            return this.Salario + base.GetBonificacao();
+            return this.Salario*0.5;
         }
 
-        public Diretor()
+        public override void AumentarSalario()
         {
-            System.Console.WriteLine("Criando um diretor");
+            Salario *= 1.15;
+        }
+
+        public Diretor(string cpf): base(cpf, 5000)
+        {
+
         }
         
     }
