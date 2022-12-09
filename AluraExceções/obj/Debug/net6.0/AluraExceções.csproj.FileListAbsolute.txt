@@ -1,0 +1,15 @@
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\bin\Debug\net6.0\AluraExceções.exe
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\bin\Debug\net6.0\AluraExceções.deps.json
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\bin\Debug\net6.0\AluraExceções.runtimeconfig.json
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\bin\Debug\net6.0\AluraExceções.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\bin\Debug\net6.0\AluraExceções.pdb
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\AluraExceções.csproj.AssemblyReference.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\AluraExceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\AluraExceções.AssemblyInfoInputs.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\AluraExceções.AssemblyInfo.cs
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\AluraExceções.csproj.CoreCompileInputs.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\AluraExceções.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\refint\AluraExceções.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\AluraExceções.pdb
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\AluraExceções.genruntimeconfig.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\AluraExceções\obj\Debug\net6.0\ref\AluraExceções.dll
