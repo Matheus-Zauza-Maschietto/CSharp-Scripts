@@ -13,7 +13,7 @@ namespace enums.exercicios.Ex2.Entities
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
         public List<HourContract> ContractList { get; set; } = new List<HourContract>();
-        Departament Departament;
+        public Departament Departament {get; set;}
 
 
         public Worker(string name, double baseSalary, WorkerLevel level, Departament departament)

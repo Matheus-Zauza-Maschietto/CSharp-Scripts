@@ -13,18 +13,20 @@ namespace enums.exercicios.Ex2.Entities
     public class Executer
     {
         public Executer(){
+
             System.Console.Write("Enter departament's name: ");
             Departament departament = new Departament(Console.ReadLine());
+
             System.Console.WriteLine("Enter worker data:");
             System.Console.Write("Name: ");
             string workerName = Console.ReadLine();
 
-            WorkerLevel workerEnum;
+            WorkerLevel workerEnum = 0;
             do{
                 try{
-                    System.Console.WriteLine("Level (Junior/MidLevel/Senior): ");
+                    System.Console.Write("Level (Junior/MidLevel/Senior): ");
                     workerEnum = Enum.Parse<WorkerLevel>(Console.ReadLine());
-                    System.Console.WriteLine(workerEnum);
+                    System.Console.WriteLine(workerEnum.ToString());
                     break;
                 }
                 catch{
@@ -33,29 +35,32 @@ namespace enums.exercicios.Ex2.Entities
                 
             }while(true);
             
-            while(true){
+            double salary = 0;
+            do{
                 try{
                     System.Console.Write("Base Salary: ");
-                    double salary = double.Parse(Console.ReadLine());
+                    salary = double.Parse(Console.ReadLine());
                     break;
                 }
                 catch{
                     System.Console.WriteLine("Você digitou um valor invalido !");
                 }
-            }
+            }while(salary <= 0);
 
-            int contractNumbers;
+            Worker worker = new Worker(workerName, salary, workerEnum, departament);
+
+            int contractNumbers = 0;
             do{
                 try{
                     System.Console.Write("How many contracts to this worker ?: ");
                     contractNumbers = int.Parse(Console.ReadLine());
-                    break;
                 }
                 catch{
                     System.Console.WriteLine("Você digitou um valor invalido !");
                 }
-            }while(true);
-            Worker worker = new Worker();
+            }while(contractNumbers <= 0);
+           
+
             for(int contract = 1; contract <= contractNumbers; contract++){
                 DateTime date = new DateTime();
                 double valuePerHour = 0;
@@ -82,7 +87,7 @@ namespace enums.exercicios.Ex2.Entities
                     catch{
                         System.Console.WriteLine("Você digitou um valor invalido");
                     }
-                }while(valuePerHour <= 1);
+                }while(valuePerHour <= 0);
                 do{
                     try{
                         System.Console.Write("Duration (Hours): ");
@@ -92,11 +97,24 @@ namespace enums.exercicios.Ex2.Entities
                     catch{
                         System.Console.WriteLine("Você digitou um valor invalido");
                     }
-                }while(duration <= 1);
+                }while(duration <= 0);
+                
+                HourContract newContract = new HourContract(date, valuePerHour, duration);
+                worker.AddContract(newContract);
                 }
             
-            
-     
+            System.Console.WriteLine("Enter month and year to calculate income (MM/YYYY): ");
+            DateTime dateIncome = DateTime.ParseExact(Console.ReadLine(), "MM/yyyy", CultureInfo.InvariantCulture);
+            System.Console.WriteLine($"Name: {worker.Name}");
+            System.Console.WriteLine($"Departament: {worker.Departament.Name}");
+            double income = 0;
+            foreach(HourContract hContract in worker.ContractList){
+                if(hContract.Date.Month == dateIncome.Month && hContract.Date.Year == dateIncome.Date.Year){
+                    income += hContract.ValuePerHour*hContract.Hours;
+                }
+            }
+            income += worker.BaseSalary;
+            System.Console.Write($"Income for {dateIncome.ToString("MM/yyyy")}: {income}");
         }
     }
 }
