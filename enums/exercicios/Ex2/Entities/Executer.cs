@@ -1,4 +1,6 @@
+using System.Globalization;
 using System.Security.Cryptography;
+using System.Globalization;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -53,29 +55,48 @@ namespace enums.exercicios.Ex2.Entities
                     System.Console.WriteLine("Você digitou um valor invalido !");
                 }
             }while(true);
-
+            Worker worker = new Worker();
             for(int contract = 1; contract <= contractNumbers; contract++){
-                DateTime date;
-                double valuePerHour;
-                int duration;
-                Console.WriteLine(date);
+                DateTime date = new DateTime();
+                double valuePerHour = 0;
+                int duration = 0 ;
                 System.Console.WriteLine($"Enter #{contract} contract data: ");
                 do{
                     try{
                         System.Console.Write("Date (DD/MM/YYYY): ");
-                        date = DateTime.Parse(Console.ReadLine());
+                        date = DateTime.ParseExact(Console.ReadLine(),
+                                              "dd/MM/yyyy",
+                                              CultureInfo.InvariantCulture);
                         break; 
                     }
                     catch{
                         System.Console.WriteLine("Você digitou um valor invalido");
                         System.Console.WriteLine("Lembre se de seguir o formato DD/MM/YYYY !");
                     }
-                }while(true);
+                }while(date.ToString("dd/MM/yyyy HH:mm:ss") == "01/01/0001 00:00:00");
+                do{
+                    try{
+                        System.Console.Write("Value per hour: ");
+                        valuePerHour = Double.Parse(Console.ReadLine());
+                    }
+                    catch{
+                        System.Console.WriteLine("Você digitou um valor invalido");
+                    }
+                }while(valuePerHour <= 1);
+                do{
+                    try{
+                        System.Console.Write("Duration (Hours): ");
+                        duration = int.Parse(Console.ReadLine());
+                        break; 
+                    }
+                    catch{
+                        System.Console.WriteLine("Você digitou um valor invalido");
+                    }
+                }while(duration <= 1);
                 }
             
             
-            //Worker worker = new Worker();
-            
+     
         }
     }
 }
