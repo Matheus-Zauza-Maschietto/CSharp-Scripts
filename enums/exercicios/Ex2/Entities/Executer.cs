@@ -110,9 +110,10 @@ namespace enums.exercicios.Ex2.Entities
             double income = 0;
             foreach(HourContract hContract in worker.ContractList){
                 if(hContract.Date.Month == dateIncome.Month && hContract.Date.Year == dateIncome.Date.Year){
-                    income += hContract.ValuePerHour*hContract.Hours;
+                    income += hContract.TotalValue();
                 }
             }
+
             income += worker.BaseSalary;
             System.Console.Write($"Income for {dateIncome.ToString("MM/yyyy")}: {income}");
         }

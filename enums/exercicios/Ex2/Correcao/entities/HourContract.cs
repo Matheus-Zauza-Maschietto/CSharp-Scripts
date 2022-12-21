@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace enums.exercicios.Ex2.Entities
+namespace enums.exercicios.Ex2.Correcao.entities
 {
     public class HourContract
     {
@@ -12,13 +12,13 @@ namespace enums.exercicios.Ex2.Entities
         public int Hours { get; set; }
         public HourContract(DateTime date, double valuePerHour, int hours)
         {
-            Date = date;
-            ValuePerHour = valuePerHour;
-            Hours = hours;
+            this.Date = date;
+            this.ValuePerHour = valuePerHour;
+            this.Hours = hours;
         }
-        public Double TotalValue(){
-            return Hours*ValuePerHour;
+        
+        public double TotalValue(){
+            return this.Hours*this.ValuePerHour;
         }
-
     }
 }
