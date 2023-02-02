@@ -1,0 +1,5 @@
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Herança e polimorfismo\Ex3\obj\Debug\net6.0\Ex3.csproj.AssemblyReference.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Herança e polimorfismo\Ex3\obj\Debug\net6.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Herança e polimorfismo\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfoInputs.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Herança e polimorfismo\Ex3\obj\Debug\net6.0\Ex3.AssemblyInfo.cs
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Herança e polimorfismo\Ex3\obj\Debug\net6.0\Ex3.csproj.CoreCompileInputs.cache

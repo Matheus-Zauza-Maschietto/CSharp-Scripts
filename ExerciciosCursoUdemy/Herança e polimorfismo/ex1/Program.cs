@@ -1,5 +1,4 @@
-﻿using Internal;
-using System;
+﻿using System;
 using ExerciciosCursoUdemy.entities;
 using System.Globalization;
 class program{
@@ -19,7 +18,7 @@ class program{
             System.Console.Write("Hours: ");
             int hours = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             System.Console.Write("Value per hour: ");
-            double name = double.Parse(Console.ReadLine());
+            double valuePerHours = double.Parse(Console.ReadLine());
             if(ch == 'y'){
                 System.Console.Write("Addtional charge: ");
                 double AdditionalCharge = double.Parse(System.Console.ReadLine());

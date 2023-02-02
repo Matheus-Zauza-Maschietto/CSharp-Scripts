@@ -9,12 +9,8 @@ namespace ExerciciosCursoUdemy.entities
     {
         public double AdditionalCharge { get; set; }
 
-        public OutSourcedEmployee()
-        {
-            
-        }
 
-        public OutSourcedEmployee(double additionalCharge, string name, int hours, double valuePerHours): base(name, hours, valuePerHours)
+        public OutSourcedEmployee( string name, int hours, double valuePerHours, double additionalCharge): base(name, hours, valuePerHours)
         {
             this.AdditionalCharge = additionalCharge;
         }
