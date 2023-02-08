@@ -3,3 +3,13 @@ C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy
 C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
 C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.AssemblyInfo.cs
 C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\bin\Debug\net6.0\Generics.exe
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\bin\Debug\net6.0\Generics.deps.json
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\bin\Debug\net6.0\Generics.runtimeconfig.json
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\bin\Debug\net6.0\Generics.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\bin\Debug\net6.0\Generics.pdb
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\refint\Generics.dll
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.pdb
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\ref\Generics.dll

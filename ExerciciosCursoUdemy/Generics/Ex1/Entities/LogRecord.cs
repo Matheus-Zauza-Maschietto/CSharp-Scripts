@@ -13,7 +13,7 @@ namespace Generics.Entities.Ex1
 
         public override int GetHashCode()
         {
-            return Username.GetHashCode;
+            return Username.GetHashCode();
         }
 
         public override bool Equals(object obj)
