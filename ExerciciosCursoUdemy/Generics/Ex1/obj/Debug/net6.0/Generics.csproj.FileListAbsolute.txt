@@ -1,0 +1,5 @@
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+C:\Users\matheus.maschietto\Documents\GitHub\CSharp-Scripts\ExerciciosCursoUdemy\Generics\ex1\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
