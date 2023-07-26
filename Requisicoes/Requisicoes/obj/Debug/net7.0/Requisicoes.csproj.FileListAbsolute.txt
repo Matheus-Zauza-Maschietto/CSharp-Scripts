@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\Requisicoes.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\Requisicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\Requisicoes.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\Requisicoes.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\Requisicoes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\bin\Debug\net7.0\Requisicoes.exe
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\bin\Debug\net7.0\Requisicoes.deps.json
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\bin\Debug\net7.0\Requisicoes.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\bin\Debug\net7.0\Requisicoes.dll
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\bin\Debug\net7.0\Requisicoes.pdb
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\Requisicoes.dll
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\refint\Requisicoes.dll
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\Requisicoes.pdb
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\Requisicoes.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\CSharp-Scripts\Requisicoes\Requisicoes\obj\Debug\net7.0\ref\Requisicoes.dll
